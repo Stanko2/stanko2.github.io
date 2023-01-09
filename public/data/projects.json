@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Arnold",
+        "description": "Webová appka, ktorú som vytvoril na spríjemnenie opravovania v pikomate.",
+        "text": "Asi môj najmasívnejší projekt (pomaly sa blíži k 10000 riadkom kódu). Je to vlastne PDF editor, kde sa dá kresliť veľa spôsobmi po PDFkách, prípadne ich bodovať a automaticky potom do nich pridať nálepku s bodmi. Tých fefatures je tu omnoho viac, a využíva ho asi väčšia polovica opravovateľov v p-mate.",
+        "titleImage": "/data/images/Arnold/Screen1.png",
+        "images": [
+            "/data/images/Arnold/Screen1.png"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://github.com/Stanko2/arnold",
+                "platform": "github"
+            },
+            {
+                "url": "https://arnold.p-mat.sk/",
+                "platform": "web"
+            }
+        ]
+    },
+    {
+        "name": "Robo-rally",
+        "description": "Multiplayerová strategická hra, asi moja najprepracovanejšia zo všetkých, čo tu sú",
+        "text": "Hra v ktorej má každý hráč svojho robota, ktorému v každom kole hráč 'programuje' najbližších 5 ťahov. Roboti potom tieto ťahy vykonávajú, zaťiaľ, čo medzi sebou vedia interagovať - strieľať sa a vytláčať. Cieľom hry je dostať sa na posledný checkpoint.",
+        "titleImage": "/data/images/Robo-Rally/Screen1.png",
+        "images": [
+            "/data/images/Robo-Rally/Screen1.png",
+            "/data/images/Robo-Rally/Screen2.png",
+            "/data/images/Robo-Rally/Screen3.png",
+            "/data/images/Robo-Rally/Screen4.png"
+        ]
+    },
+    {
+        "name": "Spevník",
+        "description": "Re-makol som spevník od Ralba",
+        "text": "Novšia verzia spevníku od ralba. Jej design je omnoho lepší ako aj využíva firebase ako back-end, takže je jednoduché menežovať pesničky (udeľovať prístup na zmeny). Okrem toho je tu zadarmo feature synchronizovania pesničiek v skupine, takže si ani netreba rozhlasovať ID. Filtrovanie a vyhľadávanie taktiez vylepšené.",
+        "titleImage": "/data/images/Spevnik/Screen1.png",
+        "images": [
+            "/data/images/Spevnik/Screen1.png"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://github.com/Stanko2/spevnik",
+                "platform": "github"
+            },
+            {
+                "url": "https://spevnik.web.app/",
+                "platform": "web"
+            }
+        ]
+    },
+    {
+        "name": "Smart-home appka",
+        "description": "Aplikácia na ovládanie žiaroviek a klimatizácii u mňa doma.",
+        "titleImage": "/data/images/SmartHomeApp/Screen1.png",
+        "images": [
+            "/data/images/SmartHomeApp/Screen1.png"
+        ],
+        "text": "Genericky napísaná aplikácia na ovládanie smarthome zariadení. To znamená, že si vieš pridať aj svoje custom zariadenia pomocou vytvorenia nového modulu. Dokonca to je aj sčasti zdokumentované na serverovom readme. Okrem basic nastavovania zariadení si vieš spraviť časovače (o takomto čase mi vypni svetlá, ...) a vytvárať si skupiny zariadení, aby si vedel ich ovládať viac naraz. Konkrétne v mojej verzii sú moduly pre IKEA Tradfri žiarovky a Carrier klimatizácie. Oba fungujú paradoxne lepšie cez toto ako cez oficiálne aplikácie (IKEA Tradfri appka niekedy nevie nájsť bránu a appka pre carrier klímy sa načítava a prihlasuje asi 5 minút. Tu je to takmer instantne).",
+        "downloadLinks": [
+            {
+                "url": "https://github.com/Stanko2/Smarthomeapp-client",
+                "platform": "github",
+                "text": "Zdrojový kód (klient)"
+            },
+            {
+                "url": "https://github.com/Stanko2/Smarthomeapp-server",
+                "platform": "github",
+                "text": "Zdrojový kód (server)"
+            },
+            {
+                "url": "https://github.com/Stanko2/Smarthomeapp-client/releases/download/main/app-release.apk",
+                "platform": "android"
+            }
+        ]
+    },
+    {
+        "name": "Chromecast player",
+        "description": "Streamovanie CDčiek, alebo aj inej hudby na chromecast reprák cez domáce raspberry.",
+        "text": "Púšťanie CDčiek je strašne nepraktické - hlavne ak máš len blu-ray prehrávač. Teda musíš zapnúť Telku, prehrávač a potom pustiť CDčko. Telka ale musí byť zapnutá po celý čas úplne zbytočne nakoľko zvuk sa prehráva cez Soundbar. Preto je jednoduchšie si CDčka prekonvertovať napríklad na MP3-ky a potom ich cez chromecast streamovať rovno do soundbaru - presne na toto som spravil jednoduchý back-end (bežiaci napríklad na raspberry) + front-end appku ako ovládač od chromecastu.",
+        "titleImage": "/data/images/ChromecastPlayer/Screen1.jpg",
+        "images": [
+            "/data/images/ChromecastPlayer/Screen1.jpg"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://github.com/Stanko2/chromecastPlayer",
+                "platform": "github"
+            }
+        ]
+    },
+
+    {
+        "name": "Giga-tower",
+        "description": "Hra na špongiu 2022 (najnovšia). Táto celkom dobre vyšla, ale je celkom zdĺhavá. ",
+        "titleImage": "/data/images/Spongia-2022/Screen1.png",
+        "images": [
+            "/data/images/Spongia-2022/Screen1.png",
+            "/data/images/Spongia-2022/Screen2.png",
+            "/data/images/Spongia-2022/Screen3.png",
+            "/data/images/Spongia-2022/Screen4.png"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://github.com/VBPO-spongia-hry/Spongia-2022",
+                "platform": "github"
+            },
+            {
+                "url": "https://github.com/VBPO-spongia-hry/Spongia-2022/releases/download/Linux/Build-linux.zip",
+                "platform": "linux"
+            },
+            {
+                "url": "https://github.com/VBPO-spongia-hry/Spongia-2022/releases/download/Windows/WindowsBuild.zip",
+                "platform": "windows"
+            }
+        ]
+    },
+    {
+        "name": "Steampuncake",
+        "description": "Hra na špongiu 2021. Bola celkom obstojná. Fakt ťažká na prejdenie.",
+        "titleImage": "/data/images/Spongia-2021/Screen4.png",
+        "images": [
+            "/data/images/Spongia-2021/Screen1.png",
+            "/data/images/Spongia-2021/Screen2.png",
+            "/data/images/Spongia-2021/Screen3.png",
+            "/data/images/Spongia-2021/Screen4.png",
+            "/data/images/Spongia-2021/Screen5.png",
+            "/data/images/Spongia-2021/Screen6.png",
+            "/data/images/Spongia-2021/Screen7.png",
+            "/data/images/Spongia-2021/Screen8.png"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://github.com/VBPO-spongia-hry/SteamPuncake",
+                "platform": "github"
+            },
+            {
+                "url": "https://github.com/VBPO-spongia-hry/SteamPuncake/releases/download/Main/bulid-linux.zip",
+                "platform": "linux"
+            },
+            {
+                "url": "https://github.com/VBPO-spongia-hry/SteamPuncake/releases/download/Main/build.zip",
+                "platform": "windows"
+            }
+        ]
+    },
+    {
+        "name": "Pandemic-3000",
+        "description": "Hra na špongiu 2020. Dopadla celkom smutne, nikomu sa nič nechcelo robiť.",
+        "titleImage": "/data/images/Spongia-2020/Screen1.png",
+        "images": [
+            "/data/images/Spongia-2020/Screen1.png",
+            "/data/images/Spongia-2020/Screen2.png",
+            "/data/images/Spongia-2020/Screen3.png",
+            "/data/images/Spongia-2020/Screen4.png"
+        ]
+    },
+    {
+        "name": "Naval transport simulator",
+        "description": "Prvá špongiová hra. Je fakt dobrá, len grafika má trocha medze.",
+        "titleImage": "/data/images/Spongia-2019/Screen1.png",
+        "images": [
+            "/data/images/Spongia-2019/Screen1.png",
+            "/data/images/Spongia-2019/Screen2.png",
+            "/data/images/Spongia-2019/Screen3.png",
+            "/data/images/Spongia-2019/Screen4.png",
+            "/data/images/Spongia-2019/Screen5.png"
+        ], 
+        "downloadLinks": [
+            {
+                "url": "https://github.com/VBPO-spongia-hry/Spongia-2019",
+                "platform": "github"
+            },
+            {
+                "url": "https://github.com/VBPO-spongia-hry/Spongia-2019/releases/download/Main/Build-linux.zip",
+                "platform": "linux"
+            },
+            {
+                "url": "https://github.com/VBPO-spongia-hry/Spongia-2019/releases/download/Main/Build-win32.zip",
+                "platform": "windows"
+            }
+        ],
+        "text": "Welcome to the Naval transport simulator, commander! Your goal here is to build a great trading empire, with ships carrying various cargo to and from many different islands. Each island has its own production rates for each of the ten types of cargo (wheat, leather, wood, fish, fruit, meat, iron, silk, spices and exotic fruit), but they have their own needs as well. Build ships, plan routes, earn money, unlock better ship parts, and repeat! Gain as much money as you can in about twenty minutes, then feel free to try again and improve! Or you can try endless mode. Ships may sink, thus using the best parts is highly recommended :)"
+    },
+    {
+        "name": "Masívne FPS",
+        "description": "Pokus o vytvorenie multiplayerovej FPS hry. Herný mechanizmus funguje, len som nevedel ako to posunúť ďalej"
+    }
+]
