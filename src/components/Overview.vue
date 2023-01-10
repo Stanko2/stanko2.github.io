@@ -18,7 +18,7 @@
           class="lg:w-1/2 relative m-2"
         />
         <div class="lg:w-1/2 flex flex-col justify-between">
-          <p class="text-teal-50 mt-2">
+          <p class="text-teal-50 mt-2 text-justify leading-7 mx-2">
             {{ project.text || project.description }}
           </p>
           <div>

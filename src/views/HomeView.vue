@@ -58,13 +58,14 @@
       </p>
       <div class="container mx-auto flex flex-wrap justify-center">
         <div
-          class="lg:w-1/12 w-1/6 m-4"
+          class="lg:w-1/12 sm:w-1/6 w-1/4 m-4"
           v-for="technology in technologies"
           :key="technology.name"
         >
           <technology-button :technology="technology" />
         </div>
       </div>
+      <div class="text-center text-indigo-200">© 2023 | Stanko</div>
     </section>
     <transition
       enter-active-class="modal-active"

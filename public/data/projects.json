@@ -184,6 +184,16 @@
     },
     {
         "name": "Masívne FPS",
-        "description": "Pokus o vytvorenie multiplayerovej FPS hry. Herný mechanizmus funguje, len som nevedel ako to posunúť ďalej"
+        "description": "Pokus o vytvorenie multiplayerovej strieľačky. Herný mechanizmus funguje, len som nevedel ako to posunúť ďalej",
+        "titleImage": "/data/images/FPS-game/Screen1.png",
+        "images": [
+            "/data/images/FPS-game/Screen1.png"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://github.com/Stanko2/Masivne-FPS",
+                "platform": "github"
+            }
+        ]
     }
 ]

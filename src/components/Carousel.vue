@@ -2,9 +2,9 @@
   <div
     @mouseenter="hovered = true"
     @mouseleave="hovered = false"
-    class="overflow-hidden"
+    class="overflow-hidden relative"
   >
-    <div class="aspect-video">
+    <div class="aspect-video relative top-1/2 -translate-y-1/2">
       <img
         :src="images[shownIndex]"
         class="rounded-md object-contain w-full aspect-video"
