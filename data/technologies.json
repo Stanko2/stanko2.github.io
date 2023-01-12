@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Unity",
+        "icon": "https://cdn-icons-png.flaticon.com/512/5969/5969294.png"
+    },
+    {
+        "name": "Vue.js",
+        "icon": "/logo.png"
+    },
+    {
+        "name": "Flutter",
+        "icon": "https://platri.de/wp-content/uploads/2021/07/Flutter-Logo.png.webp"
+    },
+    {
+        "name": "Typescript",
+        "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://findicons.com/files/icons/2773/pictonic_free/512/prog_flask.png"
+    },
+    {
+        "name": "C#",
+        "icon": "https://www.freeiconspng.com/uploads/c-logo-icon-18.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"
+    },
+    {
+        "name": "Mongo DB",
+        "icon": "https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"
+    }
+]
