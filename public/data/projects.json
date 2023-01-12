@@ -28,6 +28,16 @@
             "/data/images/Robo-Rally/Screen2.png",
             "/data/images/Robo-Rally/Screen3.png",
             "/data/images/Robo-Rally/Screen4.png"
+        ],
+        "downloadLinks": [
+            {
+                "url": "https://drive.google.com/uc?export=download&id=1UXeZ-WHEJqgYCsG4yl0nl35Pix0vZ76N",
+                "platform": "linux"
+            },
+            {
+                "url": "https://drive.google.com/uc?export=download&id=1pYDweSH8kL-JrTHHTz5VO6O-c5aIlGV5",
+                "platform": "windows"
+            }
         ]
     },
     {
